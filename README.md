@@ -10,7 +10,8 @@
 
 # MemPalace - Rust 版 v3
 
-一个用 Rust 编写的高性能、完全本地化的 AI 记忆系统。这是原始 Python 版 MemPalace 的完整重写，性能大幅提升。
+一个用 Rust 编写的高性能、完全本地化的 AI 记忆系统。这是原始 Python 版 MemPalace 的完整Rust重写，性能大幅提升。
+python原版：https://github.com/milla-jovovich/mempalace 
 
 > **版本**: 3.0.0-v3  
 > **状态**: 所有警告已抑制，可用于生产环境
@@ -350,6 +351,8 @@ Rust 重写版注重性能和可移植性。
 # MemPalace - Rust Edition v3
 
 A high-performance, fully-local AI memory system written in Rust. This is a complete rewrite of the original Python MemPalace with significant performance improvements.
+
+python Original ：https://github.com/milla-jovovich/mempalace 
 
 > **Version**: 3.0.0-v3  
 > **Status**: All warnings suppressed, ready for production use
